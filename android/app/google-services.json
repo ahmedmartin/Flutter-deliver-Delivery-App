@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "467317327841",
+    "firebase_url": "https://ra7al-app-default-rtdb.firebaseio.com",
+    "project_id": "ra7al-app",
+    "storage_bucket": "ra7al-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467317327841:android:53fb06a4f07677e7c974a0",
+        "android_client_info": {
+          "package_name": "com.ra7al.delivery.ra7al_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467317327841-ujm878p528piabskqhk2uid3ml8aedu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ra7al.delivery.ra7al_delivery",
+            "certificate_hash": "fa3241c84857072a64945cc34ccddc24354af0ff"
+          }
+        },
+        {
+          "client_id": "467317327841-ndq9tak8hgcr41vlt4lht7odchmcujo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQN16fuhmp8LjXJlsKaFWHuqirtD-F1ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467317327841-ndq9tak8hgcr41vlt4lht7odchmcujo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467317327841-lbletihce0o95opg0q6jmgt88kd6jv7m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ra7al.ra7al-seller"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467317327841:android:23e5a25ddcdc761dc974a0",
+        "android_client_info": {
+          "package_name": "com.ra7al.ra7al_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467317327841-i9vqtdo39bvncpb0vl5h50972qlu4t52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ra7al.ra7al_seller",
+            "certificate_hash": "fa3241c84857072a64945cc34ccddc24354af0ff"
+          }
+        },
+        {
+          "client_id": "467317327841-ndq9tak8hgcr41vlt4lht7odchmcujo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQN16fuhmp8LjXJlsKaFWHuqirtD-F1ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467317327841-ndq9tak8hgcr41vlt4lht7odchmcujo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467317327841-lbletihce0o95opg0q6jmgt88kd6jv7m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ra7al.ra7al-seller"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
